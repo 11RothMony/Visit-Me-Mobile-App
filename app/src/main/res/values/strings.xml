@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Visit Me</string>
+    <string name="home">Visit Me</string>
+    <string name="places">Places</string>
+    <string name="profile">Profile</string>
+    <string name="btnExp">EXPLORE</string>
+</resources>
